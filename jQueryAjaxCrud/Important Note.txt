@@ -1,0 +1,2 @@
+Validation note work correctly
+Datatable view with jQuery not work.
